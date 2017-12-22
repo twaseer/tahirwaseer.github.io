@@ -10,6 +10,8 @@ twitter_username:  tahirwaseer
 github_username:   tahirwaseer
 # facebook_username: tahir.waseer
 
+host: 0.0.0.0
+
 # Build settings
 markdown:          kramdown
 paginate:          5
@@ -17,3 +19,7 @@ paginate_path:     "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
+
+algolia:
+  application_id: '8GYFKB2EO9'
+  index_name:     'tm_blog'
