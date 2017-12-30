@@ -60,7 +60,8 @@ autocomplete('#aa-search-input',
     templates: {
         //'suggestion' templating function used to render a single suggestion
         suggestion: function(suggestion) {
-          return `<a href="${suggestion.url}"><h4>${suggestion._highlightResult.title.value}</h4>${suggestion.content}</a>`;
+          console.log(suggestion._highlightResult);
+          return `<a href="${suggestion.url}"><h4>${suggestion._highlightResult.title.value}</h4>${suggestion._highlightResult.content.value}</a>`;
         }
     }
 });

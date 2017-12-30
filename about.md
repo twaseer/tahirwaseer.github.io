@@ -1,10 +1,19 @@
 ---
-layout: page
+layout: about
 title: About Me
-description: love deep learning, deep reinforcement learning, web development
+header: <small>i am</small> tahir <small>waseer</small>
+description: i love deep learning, deep reinforcement learning and web development
+excerpt: Working as a web developer since 2014 and leading web team at <a href="http://www.acclivousbyte.com/">AcclivousByte</a>. Experienced in Laravel, Ruby on Rails and Django, usually write code in Python, Ruby, PHP and JavaScript. I love deep learning, deep reinforcement learning and web development.
 background: '/img/bg-about.jpg'
 ---
 
-I am a web developer, currently leading web team at [AcclivousByte](http://acclivousbyte.com/). We build web and mobile app solutions for small and large originasations.
+<p class="text-justify">Working as a web developer since 2014 and leading web team at <a href="http://www.acclivousbyte.com/">AcclivousByte</a>. Experienced in Laravel, Ruby on Rails and Django, can write code in Python, Ruby, PHP, JavaScript and C++.</p>
 
-When not at office I am usually reading about new break throughs in Deep Learning, traing some nueral network and sometime watching fictional/fantasy tv show. You can find me on Twitter at [@tahirwaseer](http://twitter.com/tahirwaseer), [Linkedin](https://pk.linkedin.com/in/tahir-waseer) and [Github](https://github.com/tahirwaseer).
+<p class="text-justify">Very intrigued by AI and its applications to augment the human lives. I am excited about reinforcement learning and unsupervised learning and aspire to be part of AI revolution. Spend my free time reading about break throughs in deep learning, training some nueral networks and sometime watching fictional/fantasy tv shows.</p>
+
+You can find me on some social websites;
+- [Twitter](http://twitter.com/tahirwaseer) 
+- [Linkedin](https://pk.linkedin.com/in/tahir-waseer)
+- [Github](https://github.com/tahirwaseer). 
+
+Email me @ tahirwaseer at gmail dot com.

@@ -1,7 +1,6 @@
 title:             Tahir Waseer
 email:             tahirwaseer@gmail.com
-description:       Welcome to my personal blog. I love to write about deep learning, deep reinforcement learning and web development.
-meta-description:       This is my personal blog, where I share about the people I meet, the books I'm reading, and what I'm learning. I hope that you'll join the conversation. I love to write about deep learning, deep reinforcement learning and web development.
+description:       This is my personal blog, where I share about the people I meet, the books I'm reading, and what I'm learning. I hope that you'll join the conversation. I love to write about deep learning, deep reinforcement learning and web development.
 author:            Tahir Waseer
 baseurl:           ""
 url:               "http://tahirwaseer.com"
@@ -21,7 +20,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
-  
+
 algolia:
   application_id: '8GYFKB2EO9'
   index_name:     'tm_blog'
