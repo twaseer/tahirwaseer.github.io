@@ -1,10 +1,11 @@
 title:             Tahir Waseer
 email:             tahirwaseer@gmail.com
 description:       This is my personal blog, where I share about the people I meet, the books I'm reading, and what I'm learning. I hope that you'll join the conversation. I love to write about deep learning, deep reinforcement learning and web development.
+keywords:          Tahir, Waseer, TahirWaseer, tahirwaseer, AI, ML, DL, DRL, artificial, artificial intelligence, intelligence, machine learning, deep learning, reinforcement learning, learning, personal, website, blog
 author:            Tahir Waseer
 baseurl:           ""
 url:               "http://tahirwaseer.com"
-
+social_image:      "/img/bg-home.jpg"
 # Social Profiles
 twitter_username:  tahirwaseer
 github_username:   tahirwaseer
