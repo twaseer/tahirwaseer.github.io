@@ -62,7 +62,7 @@ autocomplete('#aa-search-input',
         suggestion: function(suggestion) {
           return `<a href="${suggestion.url}"><h4>${suggestion._highlightResult.title.value}</h4>${suggestion._highlightResult.content.value}</a>`;
         },
-        footer: '<div class="branding">Search by <img src="img/algolia-logo-light.svg" /></div>',
+        footer: '<div class="branding">Search by <img src="/img/algolia-logo-light.svg" /></div>',
         empty: '<div class="empty-results">No results matched your query</div>'
     }
 });
