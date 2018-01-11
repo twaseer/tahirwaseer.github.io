@@ -11,9 +11,9 @@ background: '/img/bg-about.jpg'
 
 <p class="text-justify">Very intrigued by AI and its applications to augment the human lives. I am excited about reinforcement learning and unsupervised learning and aspire to be part of AI revolution. Spend my free time reading about break throughs in deep learning, training some nueral networks and sometime watching fictional/fantasy tv shows.</p>
 
-You can find me on some social websites;
+You can find me on web;
 - [Twitter](http://twitter.com/tahirwaseer) 
 - [Linkedin](https://pk.linkedin.com/in/tahir-waseer)
 - [Github](https://github.com/tahirwaseer). 
 
-Email me @ tahirwaseer at gmail dot com.
+Email me @ tahirwaseer [at] gmail [dot] com.
